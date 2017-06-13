@@ -1,11 +1,11 @@
 ---
 layout: post
 title: This is the title of the post
-postHero: /images/hero.jpg
+pageHero: /images/shark.jpg
 author: Me, Myself, and I
 authorTwitter: http://twitter.com/mhartl
 gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
-postFooter: Additional information, and maybe a <a href="#">link or two</a>
+pageFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
 
 Call me *Ishmael*. Some years ago–*never mind how long
@@ -14,7 +14,7 @@ particular to interest me on shore, I thought I would sail about a little
 and see the watery part of the world. It is a way I have of driving off
 the spleen and regulating the circulation.
 
-<img class="pull-left" src="http://placekitten.com/400/200"/>
+<img class="pull-left" src="/images/cat.jpg"/>
 
 Whenever I find myself growing grim about the mouth; whenever it is a damp,
 drizzly November in my soul; whenever I find myself involuntarily pausing
